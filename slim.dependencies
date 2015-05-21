@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "SlimRoms/device_nvidia_shieldtablet",
+    "target_path": "device/nvidia/shieldtablet",
+    "branch":      "lp5.1"
+  },
+  {
+    "repository": "SlimRoms/kernel_nvidia_shieldtablet",
+    "target_path": "kernel/nvidia/shieldtablet",
+    "branch":      "lp5.1"
+  }
+]
